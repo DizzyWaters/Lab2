@@ -7,19 +7,6 @@
 
 using namespace std;
 
-// functions
-
-int CaclulaceZ1(int input) 
-{
-
-}
-
-int CaclulateZ2(int input) 
-{
-if (input == -2)
-
-}
-
 int main()
 {
 	// 1. Create an algorithm that calculates values z1 and z2 by formulas given in individual task*.
