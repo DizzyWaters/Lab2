@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T08:25:45.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.6" etag="93GLOHuPmsqd6p1oaxXR" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T10:00:04.381Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hPuYxZqNsX-hvtMIsz_H" version="22.0.6" type="github">
   <diagram name="Page-1" id="OnUbJs8NTj2YRUSSfbpL">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="3096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RYEbZC5kF-pIhHLd5WML-2" value="Begins" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="329" y="-2160" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYEbZC5kF-pIhHLd5WML-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="RYEbZC5kF-pIhHLd5WML-2" target="RYEbZC5kF-pIhHLd5WML-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-60" as="sourcePoint" />
+            <mxPoint x="414" y="-2020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RYEbZC5kF-pIhHLd5WML-5" value="z1 = sqrt((2 * userInput) + (2 * sqrt(pow(userInput, 2) - 4))) / (sqrt(pow(userInput, 2) - 4) + userInput + 2);" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-1850" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RYEbZC5kF-pIhHLd5WML-8" value="double input;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;double z1;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;doublez2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RYEbZC5kF-pIhHLd5WML-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RYEbZC5kF-pIhHLd5WML-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-1980" as="sourcePoint" />
+            <mxPoint x="414" y="-1840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
