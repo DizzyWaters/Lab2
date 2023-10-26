@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-26T09:43:33.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4VgInKW8PE8BZuWso2d3" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-26T09:45:50.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="UE_ScZK5f8WTI7S7sRW1" version="22.0.8" type="github">
   <diagram name="Page-1" id="uwX-0Uft41n9snrs1WHI">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ijZUeoPcKcF7YOUvLgaa-5" value="TestCases[] = {-7834, -2, 0, 2, 4387}&lt;br&gt;`x`&lt;br&gt;`z1`&lt;br&gt;`z2`&lt;br&gt;denominator&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="110" width="280" height="90" as="geometry" />
+          <mxGeometry x="280" y="110" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ijZUeoPcKcF7YOUvLgaa-6" value="count = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="120" height="30" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="ijZUeoPcKcF7YOUvLgaa-8" value="`x` = TestCasesa[count]&lt;br&gt;denominator = `sqrt((x^2)-4)+x+2`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="360" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ijZUeoPcKcF7YOUvLgaa-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ijZUeoPcKcF7YOUvLgaa-10" value="count &amp;lt; 5" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ijZUeoPcKcF7YOUvLgaa-11" value="denominator = 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
